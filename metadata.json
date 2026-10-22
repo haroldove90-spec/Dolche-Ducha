@@ -1,0 +1,7 @@
+{
+  "name": "Dolche Ducha",
+  "description": "Sistema integral de gestión para spa, estética y clínica veterinaria canina Dolche Ducha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

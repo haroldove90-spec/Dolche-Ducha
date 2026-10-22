@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Dolche Ducha",
+  "short_name": "Dolche Ducha",
+  "description": "Sistema integral de gestión para spa, estética y clínica veterinaria canina Dolche Ducha.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF8800",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "https://appdesignproyectos.com/dolcheduchaicono.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://appdesignproyectos.com/dolcheduchaicono.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://appdesignproyectos.com/dolcheduchaicono.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
